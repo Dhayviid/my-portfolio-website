@@ -34,7 +34,7 @@ body
 /* aside */
 .aside
 {
-    width: 270px;
+    width: 280px;
     background: var(--bg-black-100);
     position: fixed;
     left: 0;
